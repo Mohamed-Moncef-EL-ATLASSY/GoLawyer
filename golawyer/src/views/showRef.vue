@@ -6,7 +6,7 @@
     <main class="form">
 
     <div class="form-floating">
-        <input type="text" class="form-control" id="floatingInput" placeholder="Reference" readonly >
+        <input type="text" class="form-control" id="floatingInput" placeholder="Reference" readonly>
         <label for="floatingInput">Your Reference</label>
     </div>
 
